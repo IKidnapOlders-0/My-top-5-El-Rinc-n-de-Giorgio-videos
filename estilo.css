@@ -1,0 +1,33 @@
+#cabezacolor{
+    color:black;
+    background-color: crimson;
+}
+
+.bg-darkred{
+    background-color: rgb(177, 51, 12);
+}
+
+.img1{
+    width: 400px;
+    height: 400px;
+}
+
+#footer{
+    color:black;
+}
+
+a{
+    color:black;
+}
+
+#color1{
+    background-color: rgb(183, 62, 43);
+}
+
+#color2{
+    background-color: rgb(211, 81, 105);
+}
+
+#section{
+    background-color: rgb(255, 241, 224);
+}
